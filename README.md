@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**Guimaraes-Fabio/Guimaraes-Fabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack & Mobile Developer**
 
-Here are some ideas to get you started:
+I build clean, scalable applications with a focus on structured state management and user-centric design. Coming from a 5-year professional background as a Human Resources Analyst, I bring a unique understanding of corporate workflows, data privacy, and cross-team communication to my software development projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Reach me at:** [Your Email] | [LinkedIn Profile Link]
+
+---
+
+### 💻 Tech Stack
+*   **Front-End:** Angular, TypeScript, Node.js, HTML/CSS
+*   **Back-End:** C#, ASP.NET Core MVC, SQL
+*   **Mobile:** Kotlin, SwiftUI
+*   **Concepts:** Clean Code Architecture, NgRx State Management, UI/UX Principles
+
+---
+
+### 🚀 Featured Projects
+
+#### 1. Recipe Web Application
+*Full-Stack CRUD Application*
+*   **Stack:** C#, ASP.NET Core MVC, SQL
+*   **Details:** Designed and implemented a relational database architecture to manage user data, recipes, and structured image uploads.
+*   [🔗 View Live Demo](#) | [💻 View Source Code](#)
+
+#### 2. Helmify Dashboard Migration
+*Front-End Architecture & State Management*
+*   **Stack:** Angular, NgRx, TypeScript
+*   **Details:** Transitioned front-end architecture to Angular, implementing NgRx for predictable state management across complex enterprise dashboards.
+
+#### 3. Cross-Platform Mobile Dashboards
+*Native Mobile Development*
+*   **Stack:** Kotlin (Android), SwiftUI (iOS)
+*   **Details:** Developed responsive mobile dashboards and calculators with a strong emphasis on inclusive UI/UX design. 
+*   [📱 Watch App Demo](#) | [💻 View Source Code](#)
+
+---
+
+### 📈 Current Focus
+I recently completed my Software Development diploma and am wrapping up my work-integrated learning practicum, actively looking for a junior developer role where I can contribute to meaningful, scalable software solutions.
