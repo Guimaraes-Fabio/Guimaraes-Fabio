@@ -1,10 +1,10 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Fabio 👋
 
 **Full-Stack & Mobile Developer**
 
 I build clean, scalable applications with a focus on structured state management and user-centric design. Coming from a 5-year professional background as a Human Resources Analyst, I bring a unique understanding of corporate workflows, data privacy, and cross-team communication to my software development projects.
 
-📫 **Reach me at:** [Your Email] | [LinkedIn Profile Link]
+📫 **Reach me at:** canada.fabio07@gmail.com | linkedin.com/in/fabio-prado-dev
 
 ---
 
