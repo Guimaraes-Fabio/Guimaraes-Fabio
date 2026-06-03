@@ -22,7 +22,7 @@ I build clean, scalable applications with a focus on structured state management
 *Full-Stack Web Application*
 *   **Stack:** Angular, Node.js, Express.js, MongoDB, JWT
 *   **Details:** Engineered a decoupled full-stack application to manage multi-entity data. Implemented robust backend security using RSA key-pair generation for JSON Web Tokens (JWT), and secured frontend routing with Angular Route Guards.
-*   [🔗 View Live Demo](#) | [💻 View Source Code](#)
+* [🔗 View Live Demo](https://mean-inventory-portal.vercel.app/) | [💻 View Source Code](https://github.com/Guimaraes-Fabio/mean-inventory-portal)
 
 #### 2. Recipe Management Platform
 *Full-Stack CRUD Application*
