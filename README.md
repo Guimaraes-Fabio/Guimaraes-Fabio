@@ -28,7 +28,7 @@ I build clean, scalable applications with a focus on structured state management
 *Full-Stack CRUD Application*
 *   **Stack:** C#, ASP.NET Core MVC, SQL, Entity Framework
 *   **Details:** Developed a full-stack web application with a robust SQL database backend to handle secure user data, recipe indexing, advanced search functionality, and smooth image uploads.
-*   [🔗 View Live Demo](#) | [💻 View Source Code](#)
+*   [🔗 View Live Demo](https://recipe-app-portfolio-aaa8h3htbkbwdhey.canadacentral-01.azurewebsites.net/)
 
 #### 3. Helmify Dashboard Architecture
 *Enterprise Front-End Migration*
