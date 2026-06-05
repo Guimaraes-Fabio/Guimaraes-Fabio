@@ -35,11 +35,11 @@ I build clean, scalable applications with a focus on structured state management
 *   **Stack:** Angular, NgRx, TypeScript, RxJS
 *   **Details:** Migrated complex proprietary UI structures into a modular Angular framework. Integrated NgRx to manage global application states predictably, optimizing data rendering across multi-tier enterprise dashboards.
 
-#### 4. FlavorFind Mobile Application
+#### 4. Movie Discovery Application
 *Native Android Development*
-*   **Stack:** Kotlin, Jetpack Compose, Room DB, MVVM
-*   **Details:** Developed a native Android recipe discovery application utilizing Jetpack Compose for a modern, reactive user interface, alongside Room DB for offline caching and Hilt for dependency injection.
-*   [📱 Watch App Demo](#) | [💻 View Source Code](#)
+* **Stack:** Kotlin, Jetpack Compose, Room DB, Retrofit, MVVM
+* **Details:** Developed a native Android application engineered for seamless movie discovery. Built entirely with Jetpack Compose for a highly responsive, state-driven UI featuring dynamic light/dark theme support. Implemented Retrofit for robust API integration and a Room database for offline-capable favorites caching.
+* [📱 Watch App Demo & View Source Code](https://github.com/Guimaraes-Fabio/MovieApp)
 
 ---
 
